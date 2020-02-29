@@ -26,6 +26,8 @@ Once inside the sbt shell:
 
 ```test``` runs tests and ```run <PATH TO SRC>/src/main/resources/mixtape.json <PATH TO SRC>/src/main/resources/changes.json``` runs the app.
 
+output.json will appear in the root source directory.
+
 # Structure
 * ```App``` is the main class and defines the overall flow of the program.  
 * ```io``` contains code for getting database and changes to and from disk.
