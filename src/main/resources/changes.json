@@ -1,0 +1,15 @@
+{
+  "operation": "AddPlaylist",
+  "id" : "333",
+  "user_id" : "1",
+  "songs" : [ "26" ]
+}
+{
+  "operation": "RemovePlaylist",
+  "id" : "3"
+}
+{
+  "operation": "AddSong",
+  "playlist_id" : "333",
+  "song_id" : "1"
+}
